@@ -1991,9 +1991,9 @@ ul {
 
 .main-menu-three__logo {
   position: absolute;
-  top: -20px;
-  left: 0;
-  right: 0;
+  top: 24px;
+  left: -20px;
+  right: 11px;
   bottom: 0;
   max-width: 1170px;
   margin: 0 auto;
